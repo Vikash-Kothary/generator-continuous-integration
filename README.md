@@ -2,6 +2,13 @@
 A Yeoman generator to generate a continuous integration and deployment porject 
 
 ## Usage
+
+### Create
 ```bash
-bash <(curl -s https://github.com/Vikash-Kothary/generator-git-project/archive/new-git-project.sh)
+bash <(curl -s https://vikash-kothary.github.io/generator-git-project/git-project-create.sh)
+```
+
+### Release
+```bash
+bash <(curl -s https://vikash-kothary.github.io/generator-git-project/git-project-release.sh)
 ```
