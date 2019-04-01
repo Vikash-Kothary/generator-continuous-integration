@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/Vikash-Kothary/generator-git-project.git
 	branch = gh-pages
-	commit = 567c1086714efe5d9b9f65f7e4350cf2a45fd145
-	parent = 567c1086714efe5d9b9f65f7e4350cf2a45fd145
+	commit = 85ab336229e142c50ce94b5880c45b696d32b6ff
+	parent = 20429839b67656412c884bfbd351093567b2fc70
 	method = merge
 	cmdver = 0.4.0
