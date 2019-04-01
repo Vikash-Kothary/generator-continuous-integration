@@ -18,6 +18,7 @@ fi
 GIT_REPO=${1}
 if [ -z GIT_REPO ]; then
 	GIT_REPO=$(git config --get remote.origin.url)
+	GIT_REPO=${GIT_REPO::-4}
 fi
 
 GIT_WIKI_EXISTS=$(git ls-remote --heads ${GIT_REPO}.wiki.git | wc -l)
