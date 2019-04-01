@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/Vikash-Kothary/generator-git-project.git
+	branch = gh-pages
+	commit = 567c1086714efe5d9b9f65f7e4350cf2a45fd145
+	parent = 567c1086714efe5d9b9f65f7e4350cf2a45fd145
+	method = merge
+	cmdver = 0.4.0
