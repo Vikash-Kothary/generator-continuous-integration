@@ -1,5 +1,5 @@
-# generator-continuous-integration
-A Yeoman generator to generate a continuous integration and deployment porject 
+# git-org-flow
+A automated workflow to manage projects in an organisation.
 
 ## Usage
 
